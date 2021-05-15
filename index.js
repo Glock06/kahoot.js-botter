@@ -1,9 +1,9 @@
 const Kahoot = require("kahoot.js-updated");
 const kahoots = [];
 
-let name = 'User';
-let id = 6647250;
-let amountOfBots = 200;
+let name = 'User'; // Your username
+let id = 6647250; // Pin of the game
+let amountOfBots = 200; // How much bots you want
 
 console.log("Joining kahoot...");
 
